@@ -1,0 +1,55 @@
+li{
+    text-decoration: none;
+    list-style: none;
+    cursor: pointer;
+}
+
+
+.nav-container{
+    color: white;
+}
+
+.navbar{
+    padding: 10px 60px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.icon{
+    cursor: pointer;
+    width: 20px;
+    height: auto;
+}
+
+.video-sec{
+    width: 100%;
+    padding: 30px 0 0 0;
+}
+
+.video-sec h2{
+    text-align: center;
+    color: #C6BBAA;
+    
+}
+
+.video{
+    width: 100%;
+    height: auto;
+}
+
+.buy-btn{
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    width: 100px;
+    background-color: #0077ED;
+    color: white;
+    font-size: 1.1rem;
+    font-weight: 600;
+    border: none;
+    border-radius: 10px;
+}   
+
+.buy-btn:hover{
+    background-color: #034383;
+}
